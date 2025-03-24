@@ -1,4 +1,4 @@
 Team members: Matías Gabriel Dávila Chio
 
 [Report 1](Report1.ipynb)
-[Report 2][Report 2]
+[Report 2][https://github.com/Ayujijis/Statistics-sem.-2/tree/main/Report%202]
