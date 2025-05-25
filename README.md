@@ -18,5 +18,5 @@ Team members: Matías Gabriel Dávila Chio
 [Report 8](Exercise8.ipynb)
 <br/>
 
-[Report 9](Exercise9.ipynb)
+[Report 9](Exercise9.md)
 <br/>
