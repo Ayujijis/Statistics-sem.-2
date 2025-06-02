@@ -20,3 +20,6 @@ Team members: Matías Gabriel Dávila Chio
 
 [Report 9](Exercise9.md)
 <br/>
+
+[Report 10](Exercise10.md)
+<br/>
